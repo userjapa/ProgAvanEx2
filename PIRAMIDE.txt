@@ -1,0 +1,10 @@
+PIRAMIDE POO
+
+      /      \
+     /        \
+    /          \
+   /POLIMORFISMO\
+  /   ABSTRAÇÃO  \
+ /    HERANÇA     \
+/  ENCAPSULAMENTO  \
+====================
